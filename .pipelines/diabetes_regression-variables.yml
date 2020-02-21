@@ -1,7 +1,7 @@
 variables:
   # Azure ML Workspace Variables
   - name: EXPERIMENT_NAME
-    value: mlopspython
+    value: mlops-python
     # AML Compute Cluster Config
   - name: AML_COMPUTE_CLUSTER_CPU_SKU
     value: STANDARD_DS2_V2
